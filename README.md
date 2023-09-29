@@ -1,9 +1,9 @@
 - 👋 Hey there! I'm Maha, a second-year comp sci student 🎓💻
   
 - 🚀 Skills:
-      - Java: Solid foundation (University coursework & Self-taught)
-      - Python: Beginner proficiency (Self-taught)
-      - HTML, CSS: Solid foundation (University coursework & Self-taught)
+    - Java: Solid foundation (University coursework & Self-taught)
+    - Python: Beginner proficiency (Self-taught)
+    - HTML, CSS: Solid foundation (University coursework & Self-taught)
   
 - 🛠️ Tools: VS Code, Eclipse, Git
 - 🌐 Goals: Build, Learn, Contribute
